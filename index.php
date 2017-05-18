@@ -198,7 +198,7 @@ body{
     <p style="color: #009933;">Let's get in touch. Send me a message:</p>
 
     <form action="/action_page.php" target="_blank">
-      <p><input  style="Background-color: #ffffff; color: #00ff00;" type="text" placeholder="Name" required name="Name:"></p>
+      <p><input  style="Background-color: #000000; color: #00ff00;" type="text" placeholder="Name" required name="Name:"></p>
       <p><input  style="Background-color: #000000; color: #00ff00;" type="text" placeholder="Email" required name="Email:"></p>
       <p><input  style="Background-color: #000000; color: #00ff00;" type="text" placeholder="Subject" required name="Subject:"></p>
       <textarea style="width: 100%; height: 160px; Background-color: #000000; color: #00ff00; resize: none;" placeholder="Type Message:"  required name="Message"></textarea>
@@ -215,7 +215,7 @@ body{
   <footer class="w3-content w3-padding-64 w3-text-grey w3-xlarge">
     <i class="fa fa-facebook-official w3-hover-opacity" style="color: #009933;"></i>
     <i class="fa fa-linkedin w3-hover-opacity" style="color: #009933;"></i>
-    <p class="w3-medium" style="color: #009933;"><a href="http://athena.ecs.csus.edu/~blockj/">&#9400 Julian Block  </a></p>
+    <p class="w3-medium" style="color: #009933;"><a href="http://athena.ecs.csus.edu/~blockj/"> Julian Block  </a></p>
   <!-- End footer -->
   </footer>
 
